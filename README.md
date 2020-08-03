@@ -1,2 +1,0 @@
-# ProjProg
-ListMaker C++ wxWidgets
